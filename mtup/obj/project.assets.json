@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\rest\\reportest\\mtup\\mtup\\mtup.csproj",
+      "projectUniqueName": "C:\\repos\\rest\\mtup\\mtup\\mtup.csproj",
       "projectName": "mtup",
-      "projectPath": "C:\\repos\\rest\\reportest\\mtup\\mtup\\mtup.csproj",
+      "projectPath": "C:\\repos\\rest\\mtup\\mtup\\mtup.csproj",
       "packagesPath": "C:\\Users\\malachowskis\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\rest\\reportest\\mtup\\mtup\\obj\\",
+      "outputPath": "C:\\repos\\rest\\mtup\\mtup\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
