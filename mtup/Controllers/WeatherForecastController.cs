@@ -35,5 +35,11 @@ namespace mtup.Controllers
             })
             .ToArray();
         }
-    }
+
+        [HttpGet("{id}")]
+        public ActionResult<string> Get(int id)
+        {
+            return Summaries[id];
+        }
+    }  
 }
