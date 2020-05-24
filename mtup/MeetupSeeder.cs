@@ -34,7 +34,7 @@ namespace mtup
             {
                 new Meetup
                 {
-                    Name = "M1",
+                    Name = "M 1",
                     Date = DateTime.Now.AddDays(15),
                     IsPrivate = false,
                     Organizer = "O1",

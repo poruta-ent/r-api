@@ -1,0 +1,4 @@
+2020-05-23 22:06:33.2289|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-05-23 22:06:33.2894|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-05-23 22:06:33.2894|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\repos\rest\mtup\mtup 
+2020-05-23 22:06:51.6167|WARN|mtup.Controllers.LectureController|no i sru, wszystkie z d zen poszły ... 
